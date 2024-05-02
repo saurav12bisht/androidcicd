@@ -318,3 +318,5 @@ w
 G.idea/sonarlint/issuestore/5/d/5d2c57342c3c17ba2d3a4c550abe267f260f019b,f/6/f6b43d3dde0a3f15f653bbbde9d36d7f0f990055
 Å
 Q.idea/sonarlint/securityhotspotstore/f/a/fa1bee0622c1431cdf0902ad197ad3c72757280b,e/f/efb1f3433da4ebbd769ac24b2161077c9081e12d
+K
+.github/workflows/blank.yml,6/d/6d3e85ef9f17223addbc6957667df356f0acc100
